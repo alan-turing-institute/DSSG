@@ -10,3 +10,4 @@ Data Science for Social Good Initiative, a 12 week summer programme which has be
  - **West Midlands Combined Authority**: Quantifying and mapping inequality of transport in the West Midlands [Source Code](https://github.com/alan-turing-institute/DSSG19-WMCA-PUBLIC) | [video](http://bit.ly/2lrQHxf) 
  - **Homeless link**: Improving outcome for rough sleepers through public reporting [Source Code](https://github.com/alan-turing-institute/DSSG19-HomelessLink-PUBLIC) |  [video](http://bit.ly/2lSaINC)
  
+ 
